@@ -1,5 +1,5 @@
 # Sign-Language-Recognition
-These are my undergraduation research work on
+These are my undergraduation research work
 
 American Sign Language Recognition is in the "ASL..." folder.
 
