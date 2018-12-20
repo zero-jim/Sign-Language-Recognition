@@ -1,7 +1,7 @@
 # Sign-Language-Recognition
-These are my undergraduation research work
+My ndergraduation research works are in this repository.
 
-American Sign Language Recognition is in the "ASL..." folder.
+Works on American Sign Language Recognition is in the "ASL..." folder.
 
 This research was accepted in the 
 
